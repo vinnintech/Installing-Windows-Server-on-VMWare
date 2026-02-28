@@ -41,5 +41,5 @@ This guide shows you how to install Windows Server 2022 on VMware. It includes c
 <h3> ****Congratulations, You have installed Windows Server!**** </h3>
 ## Summary
 
- Next part: [Windows Server to Install Active Directory]() .
+ Next part: [Installing and Configuring an Active Directory.](https://github.com/vinnintech/Installing-and-Configuring-an-Active-Directory-Domain)
   
