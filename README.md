@@ -7,9 +7,7 @@ This guide shows you how to install Windows Server 2022 on VMware. It includes c
 
 ## Utiliities & Enviroments Used
 - Server Manager
-- Active Directory Users and Computers
 - Windows Sever 2025
-- Windows 11
 ## Project Walkthrough:
 ## Download Windows Server 2025 ISO
 - Head to [Microsoft's Download Page.](https://www.microsoft.com/en-us/windows-server)
@@ -41,6 +39,7 @@ This guide shows you how to install Windows Server 2022 on VMware. It includes c
   <img width="975" height="530" alt="image" src="https://github.com/user-attachments/assets/a273b54c-3048-4a94-9cc7-29c5dec013f4" />
 
 <h3> ****Congratulations, You have installed Windows Server!**** </h3>
+## Summary
 
- Next, we will use [Windows Server to Install Active Directory]() .
+ Next part: [Windows Server to Install Active Directory]() .
   
